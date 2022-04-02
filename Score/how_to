@@ -1,0 +1,10 @@
+Un fichier par jeu
+map avec pour chaque username -> vector des meilleurs scores
+garder les 5 meilleurs scores de chaque joueur -> sort
+si un joueur a moins de 5 score remplir le reste avec un score de 0
+
+my best score
+
+general best score
+
+10 1  10 2  10 3
