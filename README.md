@@ -1,3 +1,6 @@
+Project made by Hugo Humez and me
+
+
 > Appuyez sur Entrée pour valider votre Nom (guest par défaut)
 >
 > Appuyez Sur Espace pour lancer le jeu
